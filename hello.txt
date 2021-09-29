@@ -1,2 +1,3 @@
 hello
 hi
+Hi from the new branch
